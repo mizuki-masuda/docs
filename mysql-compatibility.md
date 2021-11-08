@@ -19,7 +19,7 @@ However, some features of MySQL are not supported. This could be because there i
 > This page refers to general differences between MySQL and TiDB. Refer to the dedicated pages for [Security](/security-compatibility-with-mysql.md) and [Pessimistic Transaction Model](/pessimistic-transaction.md#difference-with-mysql-innodb) compatibility.
 
 ## Unsupported features
-
++ MySQL 8 
 + Stored procedures and functions
 + Triggers
 + Events
